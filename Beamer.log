@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6800 64-bit) (preloaded format=pdflatex 2018.9.18)  19 DEC 2018 21:20
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6800 64-bit) (preloaded format=pdflatex 2018.9.18)  30 JAN 2019 13:17
 entering extended mode
 **./Beamer.tex
 (Beamer.tex
@@ -1298,7 +1298,7 @@ Dictionary: translator-numbers-dictionary, Language: English
 em-dictionary-English.dict
 Dictionary: translator-theorem-dictionary, Language: English 
 ) (Beamer.nav)
-<figures/upb_logo.png, id=28, 555.0336pt x 146.4672pt>
+<figures/upb_logo.png, id=24, 555.0336pt x 146.4672pt>
 File: figures/upb_logo.png Graphic file (type png)
 <use figures/upb_logo.png>
 Package pdftex.def Info: figures/upb_logo.png  used on input line 34.
@@ -1306,35 +1306,173 @@ Package pdftex.def Info: figures/upb_logo.png  used on input line 34.
  [1
 
 {C:/Users/User/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./figures/up
-b_logo.png>]
+b_logo.png>] (Beamer.toc)
 File: figures/upb_logo.png Graphic file (type png)
 <use figures/upb_logo.png>
-Package pdftex.def Info: figures/upb_logo.png  used on input line 47.
+Package pdftex.def Info: figures/upb_logo.png  used on input line 38.
 (pdftex.def)             Requested size: 76.82234pt x 20.2706pt.
  [2
 
 ]
 File: figures/upb_logo.png Graphic file (type png)
 <use figures/upb_logo.png>
-Package pdftex.def Info: figures/upb_logo.png  used on input line 58.
+Package pdftex.def Info: figures/upb_logo.png  used on input line 47.
 (pdftex.def)             Requested size: 76.82234pt x 20.2706pt.
- [3
+
+[3
 
 ]
 File: figures/upb_logo.png Graphic file (type png)
 <use figures/upb_logo.png>
-Package pdftex.def Info: figures/upb_logo.png  used on input line 72.
+Package pdftex.def Info: figures/upb_logo.png  used on input line 54.
 (pdftex.def)             Requested size: 76.82234pt x 20.2706pt.
  [4
 
-]
+] (frames/Historisch.tex
 File: figures/upb_logo.png Graphic file (type png)
 <use figures/upb_logo.png>
-Package pdftex.def Info: figures/upb_logo.png  used on input line 80.
+Package pdftex.def Info: figures/upb_logo.png  used on input line 13.
 (pdftex.def)             Requested size: 76.82234pt x 20.2706pt.
  [5
 
+])
+File: figures/upb_logo.png Graphic file (type png)
+<use figures/upb_logo.png>
+Package pdftex.def Info: figures/upb_logo.png  used on input line 81.
+(pdftex.def)             Requested size: 76.82234pt x 20.2706pt.
+ [6
+
 ]
+File: figures/upb_logo.png Graphic file (type png)
+<use figures/upb_logo.png>
+Package pdftex.def Info: figures/upb_logo.png  used on input line 90.
+(pdftex.def)             Requested size: 76.82234pt x 20.2706pt.
+ [7
+
+] (frames/Memex.tex
+File: figures/upb_logo.png Graphic file (type png)
+<use figures/upb_logo.png>
+Package pdftex.def Info: figures/upb_logo.png  used on input line 10.
+(pdftex.def)             Requested size: 76.82234pt x 20.2706pt.
+ [8
+
+]
+<images/memex.jpg, id=78, 401.5pt x 282.05376pt>
+File: images/memex.jpg Graphic file (type jpg)
+<use images/memex.jpg>
+Package pdftex.def Info: images/memex.jpg  used on input line 28.
+(pdftex.def)             Requested size: 122.91406pt x 86.3469pt.
+File: figures/upb_logo.png Graphic file (type png)
+<use figures/upb_logo.png>
+Package pdftex.def Info: figures/upb_logo.png  used on input line 28.
+(pdftex.def)             Requested size: 76.82234pt x 20.2706pt.
+ [9
+
+ <./images/memex.jpg>]) (frames/Xanadu.tex
+<images/xanadu.jpg, id=84, 297.11pt x 455.7025pt>
+File: images/xanadu.jpg Graphic file (type jpg)
+<use images/xanadu.jpg>
+Package pdftex.def Info: images/xanadu.jpg  used on input line 15.
+(pdftex.def)             Requested size: 76.82246pt x 117.82622pt.
+File: figures/upb_logo.png Graphic file (type png)
+<use figures/upb_logo.png>
+Package pdftex.def Info: figures/upb_logo.png  used on input line 15.
+(pdftex.def)             Requested size: 76.82234pt x 20.2706pt.
+ [10
+
+ <./images/xanadu.jpg>]
+File: figures/upb_logo.png Graphic file (type png)
+<use figures/upb_logo.png>
+Package pdftex.def Info: figures/upb_logo.png  used on input line 27.
+(pdftex.def)             Requested size: 76.82234pt x 20.2706pt.
+ [11
+
+])
+(frames/NLS.tex
+<images/nls.png, id=95, 1156.32pt x 609.477pt>
+File: images/nls.png Graphic file (type png)
+<use images/nls.png>
+Package pdftex.def Info: images/nls.png  used on input line 15.
+(pdftex.def)             Requested size: 215.10196pt x 113.37457pt.
+File: figures/upb_logo.png Graphic file (type png)
+<use figures/upb_logo.png>
+Package pdftex.def Info: figures/upb_logo.png  used on input line 15.
+(pdftex.def)             Requested size: 76.82234pt x 20.2706pt.
+ [12
+
+ <./images/nls.png>]
+File: figures/upb_logo.png Graphic file (type png)
+<use figures/upb_logo.png>
+Package pdftex.def Info: figures/upb_logo.png  used on input line 27.
+(pdftex.def)             Requested size: 76.82234pt x 20.2706pt.
+ [13
+
+]) (frames/HES.tex
+<images/hes.jpg, id=107, 616.704pt x 474.0912pt>
+File: images/hes.jpg Graphic file (type jpg)
+<use images/hes.jpg>
+Package pdftex.def Info: images/hes.jpg  used on input line 13.
+(pdftex.def)             Requested size: 153.64493pt x 118.1174pt.
+File: figures/upb_logo.png Graphic file (type png)
+<use figures/upb_logo.png>
+Package pdftex.def Info: figures/upb_logo.png  used on input line 13.
+(pdftex.def)             Requested size: 76.82234pt x 20.2706pt.
+ [14
+
+ <./images/hes.jpg>]
+File: figures/upb_logo.png Graphic file (type png)
+<use figures/upb_logo.png>
+Package pdftex.def Info: figures/upb_logo.png  used on input line 26.
+(pdftex.def)             Requested size: 76.82234pt x 20.2706pt.
+ [15
+
+]
+File: figures/upb_logo.png Graphic file (type png)
+<use figures/upb_logo.png>
+Package pdftex.def Info: figures/upb_logo.png  used on input line 39.
+(pdftex.def)             Requested size: 76.82234pt x 20.2706pt.
+ [16
+
+]) (frames/NoteCards.tex
+File: figures/upb_logo.png Graphic file (type png)
+<use figures/upb_logo.png>
+Package pdftex.def Info: figures/upb_logo.png  used on input line 7.
+(pdftex.def)             Requested size: 76.82234pt x 20.2706pt.
+ [17
+
+]) (frames/DocumentExaminer.tex
+Overfull \vbox (9.99922pt too high) detected at line 18
+ []
+
+File: figures/upb_logo.png Graphic file (type png)
+<use figures/upb_logo.png>
+Package pdftex.def Info: figures/upb_logo.png  used on input line 18.
+(pdftex.def)             Requested size: 76.82234pt x 20.2706pt.
+[18
+
+]) (frames/HyperTIES.tex
+File: figures/upb_logo.png Graphic file (type png)
+<use figures/upb_logo.png>
+Package pdftex.def Info: figures/upb_logo.png  used on input line 12.
+(pdftex.def)             Requested size: 76.82234pt x 20.2706pt.
+ [19
+
+]) (frames/HyperCard.tex
+File: figures/upb_logo.png Graphic file (type png)
+<use figures/upb_logo.png>
+Package pdftex.def Info: figures/upb_logo.png  used on input line 7.
+(pdftex.def)             Requested size: 76.82234pt x 20.2706pt.
+ [20
+
+])
+(frames/Storyspace.tex
+File: figures/upb_logo.png Graphic file (type png)
+<use figures/upb_logo.png>
+Package pdftex.def Info: figures/upb_logo.png  used on input line 16.
+(pdftex.def)             Requested size: 76.82234pt x 20.2706pt.
+ [21
+
+])
 \tf@nav=\write6
 \openout6 = `Beamer.nav'.
 
@@ -1344,21 +1482,20 @@ Package pdftex.def Info: figures/upb_logo.png  used on input line 80.
 \tf@snm=\write8
 \openout8 = `Beamer.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 82.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 82.
-
-(Beamer.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 82.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 82.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 114.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 114.
+ (Beamer.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 114.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 114.
 Package rerunfilecheck Info: File `Beamer.out' has not changed.
-(rerunfilecheck)             Checksum: 355633D63926D65DC5D9243A8191EA3C;185.
+(rerunfilecheck)             Checksum: 4A04155C657D16BE0244146C1697E5CC;138.
  ) 
 Here is how much of TeX's memory you used:
- 30534 strings out of 492973
- 608809 string characters out of 3135935
- 681518 words of memory out of 3000000
- 33906 multiletter control sequences out of 15000+200000
- 554724 words of font info for 34 fonts, out of 3000000 for 9000
+ 30675 strings out of 492973
+ 610453 string characters out of 3135935
+ 682523 words of memory out of 3000000
+ 33976 multiletter control sequences out of 15000+200000
+ 557444 words of font info for 35 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  67i,13n,86p,775b,794s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/lm/lm-rm.enc}<C:/Program Files/M
@@ -1366,9 +1503,9 @@ iKTeX 2.9/fonts/type1/public/lm/lmss10.pfb><C:/Program Files/MiKTeX 2.9/fonts/t
 ype1/public/lm/lmss12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lm
 ss8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmss9.pfb><C:/Progra
 m Files/MiKTeX 2.9/fonts/type1/public/lm/lmssbx10.pfb>
-Output written on Beamer.pdf (5 pages, 164752 bytes).
+Output written on Beamer.pdf (21 pages, 1462404 bytes).
 PDF statistics:
- 84 PDF objects out of 1000 (max. 8388607)
- 15 named destinations out of 1000 (max. 500000)
- 80 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 180 PDF objects out of 1000 (max. 8388607)
+ 46 named destinations out of 1000 (max. 500000)
+ 98 words of extra memory for PDF output out of 10000 (max. 10000000)
 

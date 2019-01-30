@@ -1,4 +1,3 @@
-\beamer@sectionintoc {1}{Abgrenzung}{2}{0}{1}
-\beamer@sectionintoc {2}{Inspirationen}{3}{0}{2}
-\beamer@sectionintoc {3}{Geschichte}{4}{0}{3}
-\beamer@sectionintoc {4}{Probleme}{5}{0}{4}
+\beamer@sectionintoc {1}{Abgrenzung}{3}{0}{1}
+\beamer@sectionintoc {2}{Geschichte}{5}{0}{2}
+\beamer@sectionintoc {3}{Funktionen}{6}{0}{3}
