@@ -1,5 +1,5 @@
-\beamer@sectionintoc {1}{Abgrenzung}{3}{0}{1}
-\beamer@sectionintoc {2}{Geschichte}{4}{0}{2}
-\beamer@sectionintoc {3}{Struktur}{5}{0}{3}
-\beamer@sectionintoc {4}{Systeme}{6}{0}{4}
-\beamer@sectionintoc {5}{Zusammenfassung}{18}{0}{5}
+\beamer@sectionintoc {1}{Abgrenzung}{4}{0}{1}
+\beamer@sectionintoc {2}{Geschichte}{5}{0}{2}
+\beamer@sectionintoc {3}{Struktur}{6}{0}{3}
+\beamer@sectionintoc {4}{Systeme}{7}{0}{4}
+\beamer@sectionintoc {5}{Zusammenfassung}{19}{0}{5}
