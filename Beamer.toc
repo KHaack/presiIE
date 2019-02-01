@@ -2,4 +2,4 @@
 \beamer@sectionintoc {2}{Geschichte}{5}{0}{2}
 \beamer@sectionintoc {3}{Struktur}{6}{0}{3}
 \beamer@sectionintoc {4}{Systeme}{7}{0}{4}
-\beamer@sectionintoc {5}{Zusammenfassung}{19}{0}{5}
+\beamer@sectionintoc {5}{Zusammenfassung}{20}{0}{5}
