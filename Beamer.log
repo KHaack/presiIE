@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6800 64-bit) (preloaded format=pdflatex 2018.9.18)  1 FEB 2019 08:06
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6800 64-bit) (preloaded format=pdflatex 2018.9.18)  1 FEB 2019 09:26
 entering extended mode
 **./Beamer.tex
 (Beamer.tex
@@ -1519,7 +1519,7 @@ Package rerunfilecheck Info: File `Beamer.out' has not changed.
 Here is how much of TeX's memory you used:
  30722 strings out of 492973
  611625 string characters out of 3135935
- 683522 words of memory out of 3000000
+ 683523 words of memory out of 3000000
  34026 multiletter control sequences out of 15000+200000
  557444 words of font info for 35 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -1529,7 +1529,7 @@ iKTeX 2.9/fonts/type1/public/lm/lmss10.pfb><C:/Program Files/MiKTeX 2.9/fonts/t
 ype1/public/lm/lmss12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lm
 ss8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmss9.pfb><C:/Progra
 m Files/MiKTeX 2.9/fonts/type1/public/lm/lmssbx10.pfb>
-Output written on Beamer.pdf (21 pages, 1704049 bytes).
+Output written on Beamer.pdf (21 pages, 1704061 bytes).
 PDF statistics:
  197 PDF objects out of 1000 (max. 8388607)
  48 named destinations out of 1000 (max. 500000)
